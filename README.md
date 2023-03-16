@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mr_manoj_43" target="blank"><img src="https://img.shields.io/twitter/follow/mr_manoj_43?logo=twitter&style=for-the-badge" alt="mr_manoj_43" /></a> </p>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Advanced javascript**
 
-- 👯 I’m looking to collaborate on **Projects on Angular**
+- 👯 I’m looking to collaborate on **Projects on React**
 
 - 🤝 I’m looking for help with **Typescript**
 
