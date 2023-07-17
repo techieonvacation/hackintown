@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Advanced javascript**
+- 🌱 I’m currently learning **Nextjs and Nodejs**
 
-- 👯 I’m looking to collaborate on **Projects on React**
+- 👯 I’m looking to collaborate on **Projects on React and Nextjs**
 
 - 🤝 I’m looking for help with **Typescript**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **manojkumacse432@gmail.com**
 
