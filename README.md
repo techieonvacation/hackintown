@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackintown&show_icons=true&locale=en&layout=compact" alt="hackintown" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubwithmanoj&show_icons=true&locale=en" alt="hackintown" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackintown&show_icons=true&locale=en" alt="hackintown" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackintown&" alt="hackintown" /></p>
 
