@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently Doing AI Engineering In Germany
-
+💻 Full Stack Developer with 3+ years of industry experience
+🧠 Interested in Artificial Intelligence, Decision Intelligence, System Design, and Startup Building
+🌱 Currently exploring AI Agents, LLM Applications, Multi-Agent Systems, and Intelligent Business Automation
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techieonvacation) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumarmandal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techieonvacation) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/techieonvacation) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/techieonvacation) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/techieonvacation) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/techieonvacation) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techieonvacation) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojkumarcse432@gmail.com) 
